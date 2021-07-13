@@ -1,15 +1,4 @@
 item {
     id: 1
-    name: 'green'
+    name: 'nail'
 }
-
-item {
-    id: 2
-    name: 'yellow'
-}
-
-item {
-    id: 3
-    name: 'red'
-}
-
